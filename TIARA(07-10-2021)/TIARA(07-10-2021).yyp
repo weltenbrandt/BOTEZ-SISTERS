@@ -131,6 +131,7 @@
     {"id":{"name":"platfprm_01_up","path":"sprites/platfprm_01_up/platfprm_01_up.yy",},"order":7,},
     {"id":{"name":"bg_hills1","path":"sprites/bg_hills1/bg_hills1.yy",},"order":1,},
     {"id":{"name":"bg_hills2","path":"sprites/bg_hills2/bg_hills2.yy",},"order":3,},
+    {"id":{"name":"roomPendejo","path":"rooms/roomPendejo/roomPendejo.yy",},"order":15,},
     {"id":{"name":"bg_sky1","path":"sprites/bg_sky1/bg_sky1.yy",},"order":5,},
     {"id":{"name":"obj_bumper","path":"objects/obj_bumper/obj_bumper.yy",},"order":4,},
     {"id":{"name":"bg_001","path":"sprites/bg_001/bg_001.yy",},"order":7,},
@@ -591,6 +592,7 @@
     {"roomId":{"name":"ROOM_EMPTY_3","path":"rooms/ROOM_EMPTY_3/ROOM_EMPTY_3.yy",},},
     {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"roomId":{"name":"rm_test1","path":"rooms/rm_test1/rm_test1.yy",},},
+    {"roomId":{"name":"roomPendejo","path":"rooms/roomPendejo/roomPendejo.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":7,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
