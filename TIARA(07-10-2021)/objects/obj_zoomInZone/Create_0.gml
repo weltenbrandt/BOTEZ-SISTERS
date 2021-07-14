@@ -1,1 +1,0 @@
-type = cameraZoneTypes.zoom_in_zone; 

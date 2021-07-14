@@ -1,3 +1,0 @@
-message = ""; 
-
-depth = -999; 
