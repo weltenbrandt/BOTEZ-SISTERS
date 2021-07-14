@@ -1,4 +1,0 @@
-if !(global.timeStop)
-{
-	++ timer; 
-}

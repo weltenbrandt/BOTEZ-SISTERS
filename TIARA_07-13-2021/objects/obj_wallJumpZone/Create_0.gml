@@ -1,1 +1,0 @@
-type = cameraZoneTypes.wall_jump_zone; 

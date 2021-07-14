@@ -1,1 +1,0 @@
-imageSpeed = .2; 
